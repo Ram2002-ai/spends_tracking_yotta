@@ -118,5 +118,3 @@ hfsynth/  config.py reference.py ids.py timeutil.py schema.py catalog.py recurri
           generate.py derive.py validate.py evaluate.py export.py cli.py
 tests/    test_hfsynth.py        docs/  DATA_DICTIONARY.md, schema.sql (via `python -m hfsynth docs`)
 ```
-#   s p e n d s _ t r a c k i n g _ y o t t a  
- 
